@@ -121,4 +121,3 @@ Repozitorija [GitHub](https://github.com) in [Bitbucket](https://bitbucket.org) 
 
 	###### Kaj naj oddam?
 	Spletno povezavo na končno uveljavitev v [GitHub](https://github.com) repozitoriju in zaporedje GIT ukazov, ki ste jih uporabili v ukazni lupini razvojnega okolja.
-	
